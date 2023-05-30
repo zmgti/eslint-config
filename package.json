@@ -1,0 +1,15 @@
+{
+  "name": "@zmgti/eslint-config",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Configurações de linting para repositórios da ZM S.A.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zmgti/eslint-config.git"
+  },
+  "author": "ZM S.A.",
+  "bugs": {
+    "url": "https://github.com/zmgti/eslint-config/issues"
+  },
+  "homepage": "https://github.com/zmgti/eslint-config#readme"
+}
