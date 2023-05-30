@@ -1,0 +1,10 @@
+{
+   "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true,
+      "source.addMissingImports": true
+   },
+   "vue.codeActions.enabled": false,
+   "vue.autoInsert.dotValue": true,
+   "vue.inlayHints.missingProps": true,
+   "vue.complete.casing.props": "autoCamel"
+}
