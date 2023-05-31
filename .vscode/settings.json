@@ -1,8 +1,11 @@
 {
    "editor.codeActionsOnSave": {
-      "source.fixAll.eslint": true,
-      "source.addMissingImports": true
+      "source.fixAll": false,
+      "source.fixAll.eslint": true
    },
+   "editor.formatOnSave": true,
+   "eslint.experimental.useFlatConfig": true,
+   "eslint.validate": ["javascript", "typescript", "vue"],
    "vue.codeActions.enabled": false,
    "vue.autoInsert.dotValue": true,
    "vue.inlayHints.missingProps": true,
