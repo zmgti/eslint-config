@@ -39,7 +39,7 @@ const vue = {
             "allow": ["warn", "error", "info", "debug"]
          }
       ],
-      "no-magic-numbers": "error",
+      "no-magic-numbers": ["error", { "ignoreArrayIndexes": true }],
 
       /* ==== Prettier ==== */
       "prettier/prettier": [
