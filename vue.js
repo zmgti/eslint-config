@@ -39,8 +39,6 @@ const vue = {
             "allow": ["warn", "error", "info", "debug"]
          }
       ],
-      "no-magic-numbers": ["error", { "ignoreArrayIndexes": true }],
-
       /* ==== Prettier ==== */
       "prettier/prettier": [
          "error",
@@ -52,7 +50,7 @@ const vue = {
             "trailingComma": "none",
             "arrowParens": "always",
             "semi": false,
-            "endOfLine": "lf",
+            "endOfLine": "crlf",
             "vueIndentScriptAndStyle": false,
             "singleAttributePerLine": true,
             "bracketSameLine": true,
