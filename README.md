@@ -12,7 +12,7 @@ Esse repositório é destinado às configurações de linting usadas para alguns
 
 Versões utilizadas:
 - [Node.js](https://nodejs.org/) (recomendado: `>=18.13.0`)
-- [ESLint](https://eslint.org/) (recomendado: `>=8.41.0`)
+- [ESLint](https://eslint.org/) (`>=8.5.0`)
 
 > **Note** O setup a seguir atualmente tem foco em [Vue.js](https://vuejs.org/), porém, os passos a seguir são bem semelhantes em outras tecnologias e stacks. 
 
