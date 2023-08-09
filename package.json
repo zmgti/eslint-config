@@ -1,6 +1,6 @@
 {
    "name": "@zmgti/eslint-config",
-   "version": "0.3.1",
+   "version": "0.3.2",
    "license": "MIT",
    "main": "vue.js",
    "description": "Configurações de linting para repositórios da ZM S.A..",
